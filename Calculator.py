@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 import math
 screen = Tk()
-screen.title("Sharan's Calculator")
+screen.title("Smart Calculator")
 screen.maxsize(width= 453, height=490)
 screen.minsize(width= 453, height=490)
 screen.wm_iconbitmap("Logo.ico.ico")
